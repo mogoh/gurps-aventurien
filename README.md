@@ -10,7 +10,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - TL 4 mit Einschränkungen (keine Schwarzpulverwaffen)
 - Pakete für den GSC:
 - [Skills](Pakete/Skills.md) (toDo/toUpdate)
-- [Advantages/Disadvantages](Pakete/Traits.md) (toDo/toUpdate)
+- [Traits](Pakete/Traits.md) (toDo/toUpdate)
 - [Ausrüstung](Pakete/Ausrüstung.md) (toDo/toUpdate)
 
 
