@@ -39,3 +39,9 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
 - Nach Regelung in Powers - Divine Favors. Einzelne Karmale Wirkungen werden nach bedarf Erstellt und in [Liturgien](Geweihte/Liturgien.md) (toDo) gesammelt
 - Divine Favor wird mit (weiteren) -20% für 12-Göttlicher Pantheon, weitere -10% für Halbgötter (noch verhandelbar)
+
+## Fate-Bender
+
+- Funktioniert sehr na an den Shadowrun Edge Regeln
+- Man kann jedoch dann nicht durch eigenes einwirken von Magie und MAgischen Gegenständen profitieren
+ Quelle: Pyramid 4/04
