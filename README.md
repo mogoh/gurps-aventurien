@@ -45,3 +45,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Funktioniert sehr na an den Shadowrun Edge Regeln
 - Man kann jedoch dann nicht durch eigenes einwirken von Magie und MAgischen Gegenständen profitieren
  Quelle: Pyramid 4/04
+
+ ## Ausrüstung
+
+ - erstmal Low Tech Equipment in GCS
