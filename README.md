@@ -29,11 +29,19 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
 - mit Optional Rule: Extra Effort in Combat (Basic P.357)
 - mit Dealing with Charging Foes (Martial Arts P.106)
+- mit Taunt and Bluster (Dungeon Fantasy - Exploits S.58)
+
 
 
 ## Magie
 
 - Metall hat Einfluss auf Magie (nach Abstimmung mit der Regelung Thaumatology P.28)
+- Magery Maximum 3
+- mit Imbuements als Trait (z.B. Flammenschwert) (Power-Ups - Imbuements)
+- mit Sponatnen Modifikationen -> "Adjustable Spells" (Thaumatology S.39)
+- keine Technological Spells
+- stark eingeschränlte Gate Spells
+
 
 ## Geweihte
 
