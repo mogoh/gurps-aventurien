@@ -4,13 +4,14 @@
 - Eidsegen
 - Feuersegen
 - Geburtssegen
-- Glückssegen
-- Grabsegen
+- Glückssegen -> Confidence? (Powers: Divine Favor S.8)
+- Grabsegen -> Final Rest (Powers: Divine Favor S.8)
 - Harmoniesegen
-- Heilungssegen
-- Märtyrersegen
+- Heilungssegen -> Flesh Wounds (nur selbst) (Powers: Divine Favor S.9)
+                -> 
+- Märtyrersegen -> Stoicism (Powers: Divine Favor S.10)
 - Schutzsegen
-- Tranksegen
+- Tranksegen -> Fed the Masses (Powers: Divine Favor S.8)
 - Weisheitssegen
 
 ## Universelle Segungen
