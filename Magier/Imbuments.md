@@ -1,6 +1,7 @@
 # Imbuments und erlaubte Perks/Traits
 
 ## Erlaubte und ~~gestrichene~~ Imbuments
+Nicht gelistete Imbuments oder Perks sind nicht erlaubt.
 
 ### Defensive Skills
 - Blinding Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 2
