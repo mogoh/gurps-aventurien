@@ -38,7 +38,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Metall hat Einfluss auf Magie (nach Abstimmung mit der Regelung Thaumatology P.28)
   Kleine Metallteile werden nicht gerechnet (Gürtelschnalle, Kleingeld, Nägel, etc.), es sei den sie werden in größeren Mengen transportiert (SL-Entscheid).
 - Magery Maximum 3
-- mit Imbuements als Trait (z.B. Flammenschwert) (Power-Ups - Imbuements)
+- mit [Imbuements](Magier/Imbuments.md) als Trait (z.B. Flammenschwert) (Power-Ups - Imbuements)
 - mit Sponatnen Modifikationen -> "Adjustable Spells" (Thaumatology S.39)
 - keine Technological Spells, keine Resurection Spells
 - stark eingeschränlte Gate Spells
