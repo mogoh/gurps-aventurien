@@ -34,7 +34,7 @@
 - Arching Shot (GURPS Power-Ups 1: Imbuements, p. 6): Ranged; DX/Very Hard; Prerequisite: Imbue 2
 - Bank Shot (GURPS Power-Ups 1: Imbuements, p. 6): Ranged; DX/Very Hard; Prerequisite: Imbue 2
 - ~~Conic Blast (GURPS Power-Ups 1: Imbuements, p. 6): Ranged; DX/Very Hard; Prerequisite: Imbue 3~~
-- Continuing Attack (GURPS Power-Ups 1: Imbuements, p. 7): General; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Continuing Attack (GURPS Power-Ups 1: Imbuements, p. 7): General; DX/Very Hard; Prerequisite: Imbue 3~~
 - Crippling Blow (GURPS Power-Ups 1: Imbuements, p. 7): General; DX/Very Hard; Prerequisite: Imbue 3
 - Dancing Weapon (GURPS Power-Ups 1: Imbuements, p. 7): General; DX/Very Hard; Prerequisite: Imbue 3
 - Drugged Weapon (GURPS Power-Ups 1: Imbuements, p. 7): General; DX/Very Hard; Prerequisite: Imbue 3
@@ -43,13 +43,13 @@
 - Far Shot (GURPS Power-Ups 1: Imbuements, p. 8): General; DX/Very Hard; Prerequisite: Imbue 2
 - Forceful Blow (GURPS Power-Ups 1: Imbuements, p. 8): General; DX/Very Hard; Prerequisite: Imbue 1
 - Ghostly Weapon (GURPS Power-Ups 1: Imbuements, p. 8): General; DX/Very Hard; Prerequisite: Imbue 1
-- Guided Weapon (GURPS Power-Ups 1: Imbuements, p. 8): Ranged; DX/Very Hard; Prerequisite: Imbue 2
-- Homing Weapon (GURPS Power-Ups 1: Imbuements, p. 9): Ranged; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Guided Weapon (GURPS Power-Ups 1: Imbuements, p. 8): Ranged; DX/Very Hard; Prerequisite: Imbue 2~~
+- ~~Homing Weapon (GURPS Power-Ups 1: Imbuements, p. 9): Ranged; DX/Very Hard; Prerequisite: Imbue 3~~
 - Incendiary Weapon (GURPS Power-Ups 1: Imbuements, p. 9): General; DX/Very Hard; Prerequisite: Imbue 3
 - Multi-Shot (GURPS Power-Ups 1: Imbuements, p. 9): Ranged; DX/Very Hard; Prerequisite: Imbue 3
 - Multistrike (Pyramid 3/60: Dungeon Fantasy II, p. 2): Melee; DX/Very Hard; Prerequisite: Imbue 3
-- Penetrating Strike (GURPS Power-Ups 1: Imbuements, p. 9): General; DX/Very Hard; Prerequisite: Imbue 3
-- Project Blow (GURPS Power-Ups 1: Imbuements, p. 9): Melee; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Penetrating Strike (GURPS Power-Ups 1: Imbuements, p. 9): General; DX/Very Hard; Prerequisite: Imbue 3~~
+- ~~Project Blow (GURPS Power-Ups 1: Imbuements, p. 9): Melee; DX/Very Hard; Prerequisite: Imbue 3~~
 - Reinforce Weapon (Pyramid 3/13: Thaumatology, p. 18): Melee; DX/Very Hard; Prerequisite: Imbue 1
 - Returning Weapon (Pyramid 3/13: Thaumatology, p. 18): Melee; DX/Very Hard; Prerequisite: Imbue 2
 - Shattershot (GURPS Power-Ups 1: Imbuements, p. 9): Ranged; DX/Very Hard; Prerequisite: Imbue 2
@@ -78,9 +78,10 @@
 - Fulminating Strike (Pyramid 3/60: Dungeon Fantasy II, p. 2): General; DX/Very Hard; Prerequisite: Imbue 3
 - Impaling Strike (GURPS Power-Ups 1: Imbuements, p. 12): General; DX/Very Hard; Prerequisite: Imbue 3
 - Piercing Strike (GURPS Power-Ups 1: Imbuements, p. 13): General; DX/Very Hard; Prerequisite: Imbue 2
-- Strike of Negation (GURPS Power-Ups 1: Imbuements, p. 13): Melee; DX/Very Hard; Prerequisite: Imbue 3 with suitable power modifier
+- ~~Strike of Negation (GURPS Power-Ups 1: Imbuements, p. 13): Melee; DX/Very Hard; Prerequisite: Imbue 3 with suitable power modifier~~
 - Toxic Strike (GURPS Power-Ups 1: Imbuements, p. 13): General; DX/Very Hard; Prerequisite: Imbue 1
 - ~~Vampiric Weapon (GURPS Power-Ups 1: Imbuements, p. 13): General; DX/Very Hard; Prerequisite: Imbue 3~~
+- ~~Withering Strike (GURPS Power-Ups 1: Imbuements, p. 13)~~
 
 ### ~~Transportation Imbuement Skills~~
 
