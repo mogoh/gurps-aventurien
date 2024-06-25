@@ -3,28 +3,29 @@
 ## Erlaubte und gestrichene Imbuments
 
 ### Defensive Skills
-    - Blinding Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 2
-    - Blunting Armor (Pyramid 3/4: Magic on the Battlefield, p. 11): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Dancing Shield (Pyramid 3/4: Magic on the Battlefield, p. 11): Shield; DX/Very Hard; Prerequisite: Imbue 3
-    - Energizing Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 3
-    - Expand Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 1
-    - Fireproof Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Healthful Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Impenetrable Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Insulated Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Lighten Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): General; DX/Very Hard; Prerequisite: Imbue 3
-    - Nullifying Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Padded Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Reinforce Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
-    - Resilient Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
-    - Restorative Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Rigid Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 1
-    - Sovereign Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
-    - Spiritual Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
-    - Subtle Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
-    - Thunderous Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): Defense; DX/Very Hard; Prerequisite: Imbue 1. Note: No other Imbuement has the "Defense" tag. Maybe it should be "General" instead?
-    - Vengeful Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 3
-    - Widen Shield (Pyramid 3/4: Magic on the Battlefield, p. 14): Shield; DX/Very Hard; Prerequisite: Imbue 3
+- Blinding Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 2
+- Blunting Armor (Pyramid 3/4: Magic on the Battlefield, p. 11): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Dancing Shield (Pyramid 3/4: Magic on the Battlefield, p. 11): Shield; DX/Very Hard; Prerequisite: Imbue 3
+- Energizing Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 3
+- Expand Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 1
+- Fireproof Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Healthful Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Impenetrable Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Insulated Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Lighten Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): General; DX/Very Hard; Prerequisite: Imbue 3
+- Nullifying Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Padded Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Reinforce Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
+- Resilient Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
+- Restorative Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Rigid Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 1
+- Sovereign Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- Spiritual Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
+- Subtle Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
+- Thunderous Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): Defense; DX/Very Hard; Prerequisite: Imbue 1. Note: No other Imbuement has the "Defense" tag. Maybe it should be "General" instead?
+- Vengeful Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 3
+- Widen Shield (Pyramid 3/4: Magic on the Battlefield, p. 14): Shield; DX/Very Hard; Prerequisite: Imbue 3
+
 
 ### Enhancement Skills
 
