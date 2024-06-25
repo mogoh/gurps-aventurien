@@ -6,30 +6,30 @@
 - Blinding Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 2
 - Blunting Armor (Pyramid 3/4: Magic on the Battlefield, p. 11): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Dancing Shield (Pyramid 3/4: Magic on the Battlefield, p. 11): Shield; DX/Very Hard; Prerequisite: Imbue 3
-- Energizing Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Energizing Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; DX/Very Hard; Prerequisite: Imbue 3~~
 - Expand Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 1
 - Fireproof Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Healthful Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Impenetrable Armor (Pyramid 3/4: Magic on the Battlefield, p. 12): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Insulated Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Lighten Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): General; DX/Very Hard; Prerequisite: Imbue 3
-- Nullifying Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Nullifying Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3~~
 - Padded Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Reinforce Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
-- Resilient Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2
+- ~~Resilient Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 2~~
 - Restorative Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Rigid Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 1
 - Sovereign Armor (Pyramid 3/4: Magic on the Battlefield, p. 13): Armor; DX/Very Hard; Prerequisite: Imbue 3
 - Spiritual Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
 - Subtle Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 1
 - Thunderous Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): Defense; DX/Very Hard; Prerequisite: Imbue 1. Note: No other Imbuement has the "Defense" tag. Maybe it should be "General" instead?
-- Vengeful Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Vengeful Defense (Pyramid 3/4: Magic on the Battlefield, p. 14): General; DX/Very Hard; Prerequisite: Imbue 3~~
 - Widen Shield (Pyramid 3/4: Magic on the Battlefield, p. 14): Shield; DX/Very Hard; Prerequisite: Imbue 3
 
 
 ### Enhancement Skills
 
-- Acid Strike (Pyramid 3/60: Dungeon Fantasy II, p. 2): General; DX/Very Hard; Prerequisite: Imbue 3
+- Acid Weapon (Pyramid 3/60: Dungeon Fantasy II, p. 27): General; DX/Very Hard; Prerequisite: Imbue 3
 - Annihilating Weapon (GURPS Power-Ups 1: Imbuements, p. 6): Melee; DX/Very Hard; Prerequisite: Imbue 2
 - Arching Shot (GURPS Power-Ups 1: Imbuements, p. 6): Ranged; DX/Very Hard; Prerequisite: Imbue 2
 - Bank Shot (GURPS Power-Ups 1: Imbuements, p. 6): Ranged; DX/Very Hard; Prerequisite: Imbue 2
@@ -75,7 +75,7 @@
 - Dazzling Display (GURPS Power-Ups 1: Imbuements, p. 12): General; DX/Very Hard; Prerequisite: Imbue 2
 - Deafening Display (GURPS Power-Ups 1: Imbuements, p. 12): General; DX/Very Hard; Prerequisite: Imbue 1
 - Fatiguing Strike (GURPS Power-Ups 1: Imbuements, p. 12): General; DX/Very Hard; Prerequisite: Imbue 2
-- Fulminating Strike (Pyramid 3/60: Dungeon Fantasy II, p. 2): General; DX/Very Hard; Prerequisite: Imbue 3
+- ~~Fulminating Strike (Pyramid 3/60: Dungeon Fantasy II, p. 2): General; DX/Very Hard; Prerequisite: Imbue 3~~
 - Impaling Strike (GURPS Power-Ups 1: Imbuements, p. 12): General; DX/Very Hard; Prerequisite: Imbue 3
 - Piercing Strike (GURPS Power-Ups 1: Imbuements, p. 13): General; DX/Very Hard; Prerequisite: Imbue 2
 - ~~Strike of Negation (GURPS Power-Ups 1: Imbuements, p. 13): Melee; DX/Very Hard; Prerequisite: Imbue 3 with suitable power modifier~~
@@ -109,3 +109,7 @@
 - Potent Imbuement* (Pyramid 3/71: Spaceships II, p. 28)
 - Sacrificial Imbuement (Pyramid 3/13: Thaumatology, p. 19)
 - Vehicle/Mount Bond* (Pyramid 3/71: Spaceships II, p. 28)
+
+### Weapons of Pure Magic
+- Vermutlich alle Waffen, jedoch keine Rüstung!
+
