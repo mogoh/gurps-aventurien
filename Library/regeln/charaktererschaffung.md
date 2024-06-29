@@ -9,9 +9,9 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Attribute Maximum: 14 für DX und IQ, 16 für ST
 - TL 4 mit Einschränkungen (keine Schwarzpulverwaffen)
 - Pakete für den GSC:
-- [Skills](Pakete/Skills.md) (toDo/toUpdate)
-- [Traits](Pakete/Traits.md) (toDo/toUpdate)
-- [Ausrüstung](Pakete/Ausrüstung.md) (toDo/toUpdate)
+- [Skills](skills.md) (toDo/toUpdate)
+- [Traits](traits.md) (toDo/toUpdate)
+- [Ausrüstung](ausrüstung.md) (toDo/toUpdate)
 
 ## Regelwerke
 
