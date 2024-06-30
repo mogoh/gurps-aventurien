@@ -21,7 +21,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Magic
 - Thaumatology
 - Powers - Divine Favors
-- Grundsätzlich alle die zum TL passen, jedoch mit Absprache 
+- Grundsätzlich alle die zum TL passen, jedoch mit Absprache
 
 ## Profane Charaktere
 
