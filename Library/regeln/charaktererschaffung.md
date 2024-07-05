@@ -11,7 +11,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Pakete für den GSC:
 - [Skills](skills.md) (toDo/toUpdate)
 - [Traits](traits.md) (toDo/toUpdate)
-- [Ausrüstung](ausrüstung.md) (toDo/toUpdate)
+- [Ausrüstung](ausrüstung)
 
 ## Regelwerke
 
