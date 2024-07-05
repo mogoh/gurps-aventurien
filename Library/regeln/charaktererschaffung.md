@@ -1,4 +1,4 @@
-# GURPS Aventurien 
+# Charaktererschaffung
 
 Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
@@ -15,7 +15,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
 ## Regelwerke
 
-- Gurps Basic Set
+- Basic Set
 - Low-Tech
 - Martial Arts
 - Magic
@@ -53,7 +53,3 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Funktioniert sehr nah an den Shadowrun Edge Regeln
 - Man kann jedoch dann nicht durch eigenes einwirken von Magie und magischen Gegenständen profitieren
   Quelle: Pyramid 4/04
-
- ## Ausrüstung
-
- - erstmal Low Tech Equipment in GCS
