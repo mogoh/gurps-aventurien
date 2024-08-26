@@ -12,6 +12,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - [Skills](skills.md) (toDo/toUpdate)
 - [Traits](traits.md) (toDo/toUpdate)
 - [Ausrüstung](ausrüstung)
+- Starting Wealth wirkt sich nur auf Startgeld und durch (Neben-)Jobs verdientes Gehalt aus. Keine Auswirkungen auf Abenteuer-Belohnungen
 
 ## Regelwerke
 
