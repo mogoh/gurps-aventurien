@@ -22,6 +22,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Magic
 - Thaumatology
 - Powers - Divine Favors
+- Power Ups 2 Perks, Power Ups 6 Quirks (jedoch nur nach Absprache)
 - Grundsätzlich alle die zum TL passen, jedoch mit Absprache
 
 ## Profane Charaktere
