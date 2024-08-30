@@ -9,9 +9,11 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Attribute Maximum: 14 für DX und IQ, 16 für ST
 - TL 4 mit Einschränkungen (keine Schwarzpulverwaffen)
 - Pakete für den GSC:
-- [Skills](Library/skill_0.2.skl) 
-- [Traits](Library/traits_0.3.adq) 
-- [Ausrüstung](Library/equipment.eqp)
+- [Skills](../skill.skl) 
+- [Traits](../traits.adq) 
+- [Custom Traits](../custom_traits.adq)
+- [Quirks & Perks](../quirks_perks.adq)
+- [Ausrüstung](../equipment.eqp)
 - Starting Wealth wirkt sich nur auf Startgeld und durch (Neben-)Jobs verdientes Gehalt aus. Keine Auswirkungen auf Abenteuer-Belohnungen
 
 ## Regelwerke
