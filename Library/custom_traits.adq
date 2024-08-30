@@ -1,0 +1,18 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "t1LGYxorYcRc7R03R",
+			"name": "Codex Albyricus",
+			"notes": "Gildenmagier haben Beschränkungen durch den CA, insbesondere Kleiderordung und Waffen- und Rüstungsbeschränkungen. Siehe dazu: https://de.wiki-aventurica.de/wiki/Codex_Albyricus . Der Nachteil kann jedoch weggekauft werden (Ingame belkommt man eine Lizenz Waffen/Rüstung etc. zu Tragen). Man muss trotzdem als Magier zu erkennen sein!",
+			"tags": [
+				"Disadvantage",
+				"Social"
+			],
+			"base_points": -3,
+			"calc": {
+				"points": -3
+			}
+		}
+	]
+}
