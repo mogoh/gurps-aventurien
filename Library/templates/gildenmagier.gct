@@ -3,282 +3,300 @@
 	"id": "B5ULKOfhMTehm86S4",
 	"traits": [
 		{
-			"id": "t3OtUHJDCapMQyiTh",
-			"name": "Duty (Akademie)",
-			"reference": "B133",
-			"tags": [
-				"Disadvantage",
-				"Social"
-			],
-			"modifiers": [
+			"id": "TwkvsIFIXVfGiYI08",
+			"name": "Advantages",
+			"children": [
 				{
-					"id": "mtANz1zCwUMiGbOwd",
-					"name": "FR: 6",
-					"cost": -2,
-					"cost_type": "points"
+					"id": "tuVuPnRXP1en5WkaA",
+					"name": "High Status",
+					"reference": "B28",
+					"notes": "Gildenmagier",
+					"tags": [
+						"Advantage",
+						"Social"
+					],
+					"points_per_level": 5,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 5
+					}
 				},
 				{
-					"id": "mX8uCQVIREoovtHNg",
-					"name": "FR: 9",
-					"cost": -5,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mS-upJ-HHTlWT_0SN",
-					"name": "FR: 12",
-					"cost": -10,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mV1QwN6UpFQXX6WGx",
-					"name": "FR: 15",
-					"cost": -15,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "miAv3WNFkdMRUJw7B",
-					"name": "Extremely Hazardous",
-					"cost": -5,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mq9BCTNhVwSEaw0rs",
-					"name": "Involuntary",
-					"cost": -5,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mMuh71o__JNrefWq7",
-					"name": "Nonhazardous",
-					"cost": 5,
-					"cost_type": "points",
-					"disabled": true
-				}
-			],
-			"calc": {
-				"points": -2
-			}
-		},
-		{
-			"id": "tuVuPnRXP1en5WkaA",
-			"name": "High Status",
-			"reference": "B28",
-			"notes": "Gildenmagier",
-			"tags": [
-				"Advantage",
-				"Social"
-			],
-			"points_per_level": 5,
-			"can_level": true,
-			"levels": 1,
-			"calc": {
-				"points": 5
-			}
-		},
-		{
-			"id": "tffEUvPjlORK5EMp-",
-			"name": "Magery",
-			"reference": "B66",
-			"tags": [
-				"Advantage",
-				"Mental",
-				"Supernatural"
-			],
-			"modifiers": [
-				{
-					"id": "mYZIb5mr2cAuEBGbk",
-					"name": "Dance",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "mawU45BOi39Qg4jxG",
-					"name": "Dark-Aspected",
-					"cost": -50,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "m4l-qC7Ef8kunancf",
-					"name": "Day-Aspected",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "mTHWvtP_Nedwgr_lw",
-					"name": "Musical",
-					"cost": -50,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "mTWLuiBYTYuzCXf2-",
-					"name": "Night-Aspected",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "m3TjRoCXSPoU1ETWP",
-					"name": "One College",
-					"notes": "@College@",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "mBxPjhiLMOk8lLPuP",
-					"name": "Solitary",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "mgSKDAK5FJBXjeAE_",
-					"name": "Song",
-					"cost": -40,
-					"affects": "levels_only",
-					"disabled": true
-				},
-				{
-					"id": "MlcjjKci3OUO06jnL",
-					"name": "Gadget Limitations",
-					"children": [
+					"id": "tffEUvPjlORK5EMp-",
+					"name": "Magery",
+					"reference": "B66",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
 						{
-							"id": "MwcpFr7mBxL_szh3g",
-							"name": "Can be Stolen",
-							"children": [
-								{
-									"id": "mz3Ejsj8-PFoO8Mfn",
-									"name": "Can be Stolen",
-									"reference": "B117",
-									"notes": "Win QC",
-									"cost": -30,
-									"disabled": true
-								}
-							]
+							"id": "mYZIb5mr2cAuEBGbk",
+							"name": "Dance",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
 						},
 						{
-							"id": "MHlU8CwIDi41_8CKQ",
-							"name": "Gadget Limitations - Breakable",
+							"id": "mawU45BOi39Qg4jxG",
+							"name": "Dark-Aspected",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "m4l-qC7Ef8kunancf",
+							"name": "Day-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mTHWvtP_Nedwgr_lw",
+							"name": "Musical",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mTWLuiBYTYuzCXf2-",
+							"name": "Night-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "m3TjRoCXSPoU1ETWP",
+							"name": "One College",
+							"notes": "@College@",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mBxPjhiLMOk8lLPuP",
+							"name": "Solitary",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "mgSKDAK5FJBXjeAE_",
+							"name": "Song",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "MlcjjKci3OUO06jnL",
+							"name": "Gadget Limitations",
 							"children": [
 								{
-									"id": "mknTZm7MTp8zooi_H",
+									"id": "MwcpFr7mBxL_szh3g",
+									"name": "Can be Stolen",
+									"children": [
+										{
+											"id": "mz3Ejsj8-PFoO8Mfn",
+											"name": "Can be Stolen",
+											"reference": "B117",
+											"notes": "Win QC",
+											"cost": -30,
+											"disabled": true
+										}
+									]
+								},
+								{
+									"id": "MHlU8CwIDi41_8CKQ",
 									"name": "Gadget Limitations - Breakable",
-									"reference": "B117",
-									"notes": "DR 2 or less",
+									"children": [
+										{
+											"id": "mknTZm7MTp8zooi_H",
+											"name": "Gadget Limitations - Breakable",
+											"reference": "B117",
+											"notes": "DR 2 or less",
+											"cost": -20,
+											"disabled": true
+										},
+										{
+											"id": "monNxI2Oa0eY8rEKU",
+											"name": "Gadget Limitations - Breakable (Size)",
+											"reference": "B117",
+											"notes": "-5 or -6",
+											"cost": -10,
+											"disabled": true
+										}
+									]
+								},
+								{
+									"id": "mXRLSdLXaG5IP7tUa",
+									"name": "Finding the correct spell in combat takes d4-1 combat rounds.",
 									"cost": -20,
 									"disabled": true
 								},
 								{
-									"id": "monNxI2Oa0eY8rEKU",
-									"name": "Gadget Limitations - Breakable (Size)",
-									"reference": "B117",
-									"notes": "-5 or -6",
-									"cost": -10,
+									"id": "mv35g_ph-o88NRdvT",
+									"name": "If the book gets lost, or if the mage chooses to cast without the spell book, magery gets reduced to 0.",
+									"cost": 30,
 									"disabled": true
 								}
 							]
+						}
+					],
+					"base_points": 5,
+					"points_per_level": 10,
+					"features": [
+						{
+							"type": "spell_bonus",
+							"match": "all_colleges",
+							"amount": 1,
+							"per_level": true
 						},
 						{
-							"id": "mXRLSdLXaG5IP7tUa",
-							"name": "Finding the correct spell in combat takes d4-1 combat rounds.",
-							"cost": -20,
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "thaumatology"
+							},
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 15
+					}
+				},
+				{
+					"id": "tIyA35BqqzO0SQw4e",
+					"name": "Magier Rank",
+					"reference": "B29",
+					"tags": [
+						"Advantage",
+						"Social"
+					],
+					"modifiers": [
+						{
+							"id": "m96IHyuYdVpaCwDLu",
+							"name": "Replaces Status",
+							"reference": "B29",
+							"cost": 5,
+							"cost_type": "points",
+							"affects": "levels_only",
 							"disabled": true
 						},
 						{
-							"id": "mv35g_ph-o88NRdvT",
-							"name": "If the book gets lost, or if the mage chooses to cast without the spell book, magery gets reduced to 0.",
-							"cost": 30,
+							"id": "m2OSTc2KIdIbdcjkV",
+							"name": "Courtesy",
+							"reference": "B29",
+							"cost": -4,
+							"cost_type": "points",
+							"affects": "levels_only",
 							"disabled": true
 						}
-					]
+					],
+					"points_per_level": 5,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 5
+					}
 				}
 			],
-			"base_points": 5,
-			"points_per_level": 10,
-			"features": [
+			"calc": {
+				"points": 25
+			}
+		},
+		{
+			"id": "Tuxm8b8XFNZ65HrjV",
+			"name": "Disadvantages",
+			"children": [
 				{
-					"type": "spell_bonus",
-					"match": "all_colleges",
-					"amount": 1,
-					"per_level": true
-				},
-				{
-					"type": "skill_bonus",
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is",
-						"qualifier": "thaumatology"
+					"id": "tMjpsqrPmt2IHByh_",
+					"source": {
+						"library": "/gcs_user_library",
+						"path": "gurps-aventurien/Library/custom_traits.adq",
+						"id": "t1LGYxorYcRc7R03R"
 					},
-					"amount": 1,
-					"per_level": true
-				}
-			],
-			"can_level": true,
-			"levels": 1,
-			"calc": {
-				"points": 15
-			}
-		},
-		{
-			"id": "tIyA35BqqzO0SQw4e",
-			"name": "Magier Rank",
-			"reference": "B29",
-			"tags": [
-				"Advantage",
-				"Social"
-			],
-			"modifiers": [
-				{
-					"id": "m96IHyuYdVpaCwDLu",
-					"name": "Replaces Status",
-					"reference": "B29",
-					"cost": 5,
-					"cost_type": "points",
-					"affects": "levels_only",
-					"disabled": true
+					"name": "Codex Albyricus",
+					"notes": "Gildenmagier haben Beschränkungen durch den CA, insbesondere Kleiderordung und Waffen- und Rüstungsbeschränkungen. Siehe dazu: https://de.wiki-aventurica.de/wiki/Codex_Albyricus . Der Nachteil kann jedoch weggekauft werden (Ingame belkommt man eine Lizenz Waffen/Rüstung etc. zu Tragen). Man muss trotzdem als Magier zu erkennen sein!",
+					"tags": [
+						"Disadvantage",
+						"Social"
+					],
+					"base_points": -3,
+					"calc": {
+						"points": -3
+					}
 				},
 				{
-					"id": "m2OSTc2KIdIbdcjkV",
-					"name": "Courtesy",
-					"reference": "B29",
-					"cost": -4,
-					"cost_type": "points",
-					"affects": "levels_only",
-					"disabled": true
+					"id": "t3OtUHJDCapMQyiTh",
+					"name": "Duty (Akademie)",
+					"reference": "B133",
+					"tags": [
+						"Disadvantage",
+						"Social"
+					],
+					"modifiers": [
+						{
+							"id": "mtANz1zCwUMiGbOwd",
+							"name": "FR: 6",
+							"cost": -2,
+							"cost_type": "points"
+						},
+						{
+							"id": "mX8uCQVIREoovtHNg",
+							"name": "FR: 9",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mS-upJ-HHTlWT_0SN",
+							"name": "FR: 12",
+							"cost": -10,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mV1QwN6UpFQXX6WGx",
+							"name": "FR: 15",
+							"cost": -15,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "miAv3WNFkdMRUJw7B",
+							"name": "Extremely Hazardous",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mq9BCTNhVwSEaw0rs",
+							"name": "Involuntary",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mMuh71o__JNrefWq7",
+							"name": "Nonhazardous",
+							"cost": 5,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"calc": {
+						"points": -2
+					}
 				}
 			],
-			"points_per_level": 5,
-			"can_level": true,
-			"levels": 1,
 			"calc": {
-				"points": 5
-			}
-		},
-		{
-			"id": "tMjpsqrPmt2IHByh_",
-			"source": {
-				"library": "/gcs_user_library",
-				"path": "gurps-aventurien/Library/custom_traits.adq",
-				"id": "t1LGYxorYcRc7R03R"
-			},
-			"name": "Codex Albyricus",
-			"notes": "Gildenmagier haben Beschränkungen durch den CA, insbesondere Kleiderordung und Waffen- und Rüstungsbeschränkungen. Siehe dazu: https://de.wiki-aventurica.de/wiki/Codex_Albyricus . Der Nachteil kann jedoch weggekauft werden (Ingame belkommt man eine Lizenz Waffen/Rüstung etc. zu Tragen). Man muss trotzdem als Magier zu erkennen sein!",
-			"tags": [
-				"Disadvantage",
-				"Social"
-			],
-			"base_points": -3,
-			"calc": {
-				"points": -3
+				"points": -5
 			}
 		}
 	],
@@ -292,7 +310,8 @@
 				"Occult"
 			],
 			"specialization": "Gildenmagisch",
-			"difficulty": "iq/h"
+			"difficulty": "iq/h",
+			"points": 1
 		}
 	],
 	"notes": [
