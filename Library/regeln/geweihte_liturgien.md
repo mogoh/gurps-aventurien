@@ -29,3 +29,8 @@
 ## Kor
 - Neun Streich in Einem   (Steichen/Ersetzen)
 - Das schwarze Fell durch das rote Blut (DR 4 [20], Costs HP (-10%), Force Field (+20%)?, Maximum Duration (Up  to 10min) (-50%), Divine (-10%))[10] (Learned Prayer x0.2) [2]
+
+
+## Ideen
+
+http://djgurps.blogspot.com/2014/03/divine-favor-druid-abilities.html
