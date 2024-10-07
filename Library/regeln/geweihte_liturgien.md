@@ -15,9 +15,17 @@
 - Weisheitssegen
 
 ## Universelle Segungen
+- Waffensegen -> Spirit Weapon (Powers:DV S.10)
 
 ## Swafnir Segnungen
 - Sterne funkeln immerfort
-- Gesang der Delphine
-- Gesand der Wale
+- Gesang der Delphine Speak with Animals (Nur Delphine -60%, PM, -10%) [8] (LP[2]) Power-Up(Meereswesen -40%, PM, -10%) [13] (LP[3])
+- Gesand der Wale (Nur Delphine -60%, PM, -10%) [8] (LP[2]) Power-Up(Meereswesen -40%, PM, -10%) [13] (LP[3])
 - Segen des Plättlings
+- Tiergestallt (Delphin) (Alternate Form (PM, -10%) [14] + Delphin Template[0])[14] (Learned Prayer x0.2) [3]
+- NEU: Versetzt eine Person in Walwut?
+- NEU: Negiert Walwut/Berserker
+
+## Kor
+- Neun Streich in Einem   (Steichen/Ersetzen)
+- Das schwarze Fell durch das rote Blut (DR 4 [20], Costs HP (-10%), Force Field (+20%)?, Maximum Duration (Up  to 10min) (-50%), Divine (-10%))[10] (Learned Prayer x0.2) [2]
