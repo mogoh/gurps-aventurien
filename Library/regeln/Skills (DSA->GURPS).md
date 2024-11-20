@@ -17,6 +17,8 @@
 |Taschendiebstahl   |	Pickpocket, Filch, Sleight of hand	|
 
 ## Gesellschaft			
+|DSA                |GURPS                          |
+|-------------------|-------------------------------|
 |Menschenkenntnis   |		Psychologie 	        |
 |Überreden          |Fast talk	Intimidation        |
 |überzeugen         |		acting 	                |
@@ -26,7 +28,9 @@
 |lehren             |		teaching	            |
 |verkleiden	        |	disguise	                |
 
-## Natur		
+## Natur	
+|DSA                |GURPS                          |
+|-------------------|-------------------------------|	
 |Fährtensuchen      |		tracking	            |
 |Orientierung       |		navigation	            |
 |Wildnisleben       |survival / naturalist          |	
@@ -35,7 +39,9 @@
 |entfesseln         |		escape	                |
 |fisching           |fishing	                    |
 
-## Wissen		
+## Wissen
+|DSA                |GURPS                          |
+|-------------------|-------------------------------|		
 |Götter/Kulte       |theology/Hidden Lore           |
 |Rechnen            |		mathematics             |	
 |Sagen/Legenden     |		hidden lore? history?   |	
@@ -47,7 +53,9 @@
 |sprachenkunde      |		linguistics             |	
 |sternenkunde       |		astronomy               |	
 
-## Handwerk		
+## Handwerk	
+|DSA                |GURPS                          |
+|-------------------|-------------------------------|	
 |Heilkunde Wunden   |		first aid	            |	
 |Holzbearbeitung    |		carpentry               |	
 |Kochen             |		cooking	                |
