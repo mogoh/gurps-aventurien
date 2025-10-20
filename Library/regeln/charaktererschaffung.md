@@ -2,8 +2,10 @@
 
 Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
+[[_TOC_]]
+
 * [Grundsätzliches] (#grundsätzliches)
-* [Regelwerke] (#Regelwerke)
+* [Regelwerke] (#regelwerke)
 * [Profane] (#Profane)
 * [Magie] (#Magie)
 * [Geweihte] (#Geweihte)
