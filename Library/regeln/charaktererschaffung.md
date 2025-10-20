@@ -24,7 +24,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - [Ausrüstung](../equipment.eqp)
 - Starting Wealth wirkt sich nur auf Startgeld und durch (Neben-)Jobs verdientes Gehalt aus. Keine Auswirkungen auf Abenteuer-Belohnungen
 
-## Regelwerke {#Regelwerke}
+## Regelwerke 
 
 - Basic Set
 - Low-Tech
