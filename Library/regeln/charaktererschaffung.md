@@ -2,15 +2,15 @@
 
 Hier werden die Regeln zur Charaktererschaffung festgehalten.
 
-* [Grundsätzliches zur Charaktererschaffung] (#Grundsätzliches)
+* [Grundsätzliches] (#grundsätzliches)
 * [Regelwerke] (#Regelwerke)
-* [Profane Charaktere] (#Profane)
+* [Profane] (#Profane)
 * [Magie] (#Magie)
 * [Geweihte] (#Geweihte)
 * [Fate-Bender] (#Fate)
 * [Alchmemisten] (#Alchemisten)
 
-## Grundsätzliches zur Charaktererstellung {#Grundsätzliches}
+## Grundsätzliches zur Charaktererstellung {#grundsätzliches}
 
 - 200 CP zur Erstellung
 - max 75 CP in Nachteilen
@@ -35,7 +35,7 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Power Ups 2 Perks, Power Ups 6 Quirks (jedoch nur nach Absprache)
 - Grundsätzlich alle die zum TL passen, jedoch mit Absprache
 
-## Profane Charaktere {#Profane}
+## Profane {#Profane}
 
 - mit Optional Rule: Extra Effort in Combat (Basic P.357)
 - mit Dealing with Charging Foes (Martial Arts P.106)
