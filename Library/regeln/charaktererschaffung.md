@@ -73,3 +73,4 @@ Jedoch eingeschränkt, was die Anzahl und die Auswahl der Imuements angeht.
 ## Imbument Fighter (?)
 
 - (fast) uneingeschränkte Auswahl an Imbuments
+- jedoch kein Magery (dafür evt. günstigers äquivalent als genereller Bonus)
