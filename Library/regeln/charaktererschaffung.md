@@ -47,6 +47,7 @@ Jedoch eingeschränkt, was die Anzahl und die Auswahl der Imuements angeht.
 - stark eingeschränkte Gate Spells
 - Gildenmagier müssen Rank 1 kaufen um Zauber zu lernen die Schaden verursachen (Feuerball), Elementare herbeirufen, Teleportieren oder Gedanken lesen ermöglichen.
 - Gildenmagier müssen Rank 2 kaufen um Zauber zu lernen die Leute beeinflussen, Dämonen oder Untote beschwören.
+- Rank 1 und 2 kommt mit einer Beförderung in den Magieschen Reichen (Adeptus Major, Magier etc.)
 - Gildenmagier haben den Nachteil Codex Albyricus [-3]. Gildenmagier haben Beschränkungen durch den CA, insbesondere Kleiderordung und Waffen- und Rüstungsbeschränkungen. Siehe dazu: https://de.wiki-aventurica.de/wiki/Codex_Albyricus . Der Nachteil kann jedoch weggekauft werden (Ingame belkommt man eine Lizenz Waffen/Rüstung etc. zu Tragen). Man muss trotzdem als Magier zu erkennen sein!
 - Nicht Gildenmagier die Zauber aus Rank 1 und 2 erlernt haben, bekommen den Nachteil zB.: "Social Stigma (Mind Control User)[-5] (-1 Reaction from normal Folk. -2 from anyone who has reason to belive that you may use your spells against them)
 
