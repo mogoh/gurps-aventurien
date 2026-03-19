@@ -16,6 +16,9 @@ Perks ohne Farbe sollten beprochen werden.
 |                    |                                    |
 
 ## Magie
+
+Perks aus Thaumatology - Magical Styles S. 20 - 33
+
 |                           |                                |                               |
 |---------------------------|--------------------------------|-------------------------------|
 | {-Academic or Guild Rank†‡ -}  | {+Huge Subjects†‡   +}              | {+Sanctum        +}                |
