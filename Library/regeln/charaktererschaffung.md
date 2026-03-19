@@ -25,8 +25,9 @@ Hier werden die Regeln zur Charaktererschaffung festgehalten.
 - Martial Arts
 - Magic
 - Thaumatology
+- Thaumatology - Magical Styles
 - Powers - Divine Favors
-- Power Ups 2 Perks, Power Ups 6 Quirks (jedoch nur nach Absprache)
+- Power Ups: 1 Imbuments, 2 Perks, 6 Quirks (Siehe Perk Liste, bzw. mit Absprache)
 - Grundsätzlich alle die zum TL passen, jedoch mit Absprache
 
 ## Profane
@@ -67,8 +68,8 @@ Jedoch eingeschränkt, was die Anzahl und die Auswahl der Imuements angeht.
 
 - Nach Regeln aus Pyramid 4-001 P.42, können (nur) Alchemisten "Internal alchemy" benutzen (Brauen von Tränken im eigenen Körper ohne Werkzeuge und "nur" für den Selbstgebrauch)
 - Alchemistische Rezepte werden wie Techniques (Hard) betrachtet und benötigen bis zur Meisterung (Alchemy-0) eine Rezeptur oder Anleitung
-- Kosten der Zutaten und der Tränke werden nach Magic P.213 und Pyramid 4-001 P.43 geregelt.
-- Neue Tränke werden nach dem System in Pyramid 4-001 P.43 erstellt.
+- Kosten der Zutaten und der Tränke werden nach Magic P.213 (und Pyramid 4-001 P.43 mit modifikator) geregelt.
+- Neue Tränke werden nach dem System in Pyramid 4-001 P.43 erstellt (mit modifikator, damit es konsiten zu Magic bleibt).
 
 ## Imbument Fighter (?)
 
