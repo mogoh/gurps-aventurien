@@ -16,9 +16,9 @@
 | Enhanced Spell†           | Improvised Items‡              | Secret Mage                   |
 | Spell Enhancement†        | Improvised Magic†              | Secret Spell                  |
 | Spell Variation†          | Intuitive Cantrip †            | Secret Word                   |
-| Afflicted Casting†        | Kill Switch †                  | Shaman Trance                 |
+| {+ Afflicted Casting† +}  | Kill Switch †                  | Shaman Trance                 |
 | Area Spell Mastery†       | Licence †                      | Shortcut to Power             |
-| Attribute Substitution†   | Life-Force Burn ‡              | Special Exercises†            |
+| {- Attribute Substitution† -} | Life-Force Burn ‡              | Special Exercises†            |
 | Better Magic Items†       | Limited Energy Reserve †‡      | FP                            |
 | Blocking Spell Mastery†   | Magical Style Adaptation       | IQ                            |
 | Combat Ceremony†          | Magical Weapon Bond            | Magery                        |
