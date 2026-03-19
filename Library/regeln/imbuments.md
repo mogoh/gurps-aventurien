@@ -2,7 +2,8 @@
 
 ## Erlaubte und ~~gestrichene~~ Imbuments
 Nicht gelistete Imbuments oder Perks sind ohne Absprache nicht erlaubt.
-Die Imbuments werden als magisch eingestuft. Profitieren dadurch von Magery # und gehen auf IQ (anstatt auf DX)
+Für Magier, Imbuents profitieren von Magery # und gehen auf IQ (anstatt auf DX)
+Für Nichtmagier, Imbuements profitieren von einem eigenem Talent (Eldritch Talent 5CP/lvl; Pyr 3/13 S.17) und können auf ein anderes Attribut gehen (Absprache).
 
 ### Defensive Skills
 - Blinding Defense (Pyramid 3/4: Magic on the Battlefield, p. 11): General; Imbue 2
