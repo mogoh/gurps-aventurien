@@ -9,6 +9,8 @@
 |                    |                                    |
 
 ## Magie
+|                    |                                    |
+| ------------------ | ---------------------------------- |
 | Academic or Guild Rank†‡       | Missile Spell Mastery         |
 | Adjustable Spell†              | Mundane Magic                 |
 | Enhanced Spell†                | Named Possession              |
