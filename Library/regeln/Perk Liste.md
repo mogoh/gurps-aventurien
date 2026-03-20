@@ -52,9 +52,17 @@ Perks aus Thaumatology - Magical Styles S. 20 - 33
 | {+Frightening Side Effects†+}  | {+Sacrificial Blocking Spell  +}    | {+Wizardly Garb     +}             |
 
 ## Imbuments 
-|                    |                                    |
-| ------------------ | ---------------------------------- |
-|                    |                                    |
+Perks aus Pyr 3/13, 3/60
+
+|                               |                               |                            |
+|-------------------------------|-------------------------------|----------------------------|
+| {+Frightening Side Effects+}  | {+Combo Mastery†  +}          | {+Eldritch Tether  +}      |
+| {+Illumination  +}            | {+Defending Dancing Weapon+}  | {+Focused Imbuer† +}       |
+| Imbued Weapon                 | {+Eldritch Charge  +}         | {+Frost Strike +}          |
+| {+Imbued Weapon Bond +}       | Eldritch Conduit              | Killing Strike             |
+| Improvised Imbuement          | Eldritch Finishing Move†      | {+Sacrificial Imbuement+}  |
+| {+Mana Compensation +}        | Eldritch Link                 |                            |
+
 
 ## Divine  
 |                    |                                    |
