@@ -1,8 +1,8 @@
 # Perks
 Es ist nur eine begrenzte Anzahl an Perks erlaubt. Für jeden 10CP in einer Kategorie ist ein Perk erlaubt. 
 
-Perks in {+ DIESER FARBE +} sind erlaubt.
-Perks in {- DIESER FARBE -} sind verboten.
+Perks in {+ DIESER FARBE+} sind erlaubt.
+Perks in {- DIESER FARBE-} sind verboten. (Teil, weil die nicht in das System passen oder weil die bereits ohne Perk vorhanden sind)
 Perks ohne Farbe sollten beprochen werden.
 
 ## Allgemeine  
