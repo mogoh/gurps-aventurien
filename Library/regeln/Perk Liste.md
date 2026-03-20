@@ -10,10 +10,24 @@ Perks ohne Farbe sollten beprochen werden.
 | ------------------ | ---------------------------------- |
 
 
-## Kampf  
-|                    |                                    |
-| ------------------ | ---------------------------------- |
-|                    |                                    |
+## Kampf 
+
+Perks aus Martial Arts S.49 und (noch nicht alle aus Power-Ups 2 Perks)
+
+|                    |                                    |   |
+| ------------------ | ---------------------------------------- |----- |
+| {+Armor Familiarity†+}    | {+Ground Guard +}                 | {+Quick-Swap† +}          |
+| Biting Mastery            | {+Improvised Weapons† +}          | {+Rapid Retraction† +}    |
+| {-Chi Resistance*†  -}    | {+Iron Body Parts *†  +}          | {+Shield-Wall Training +} |
+| {-Cotton Stomach*   -}    | {+Naval Training  +}              | {+Shtick†  +}             |
+| {+Drunken Fighting* +}    | Neck Control†                     | Skill Adaptation†         |
+| Exotic Weapon Training†   | {+Off-Hand Weapon Training† +}    | {-Special Exercises† -}   |
+| {+Form Mastery† +}        | Power Grappling                   | Special Setup†            |
+| {+Grip Mastery† +}        | {+Quick-Sheathe† +}               | Strongbow                 |
+| Style Adaptation†         | {-Suit Familiarity† -}            | {-Sure-Footed† -}         |
+| {+Teamwork† +}            | Technique Adaptation†             | Technique Mastery†        |
+| Unique Technique†         | Unusual Training†                 | {+Weapon Adaptation† +}   |
+| {+Weapon Bond  +}         | {+Reach Mastery  +}               |                           |
 
 ## Magie
 
